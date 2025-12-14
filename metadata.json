@@ -1,0 +1,5 @@
+{
+  "name": "SciCalc & Gemini Chat",
+  "description": "A full-screen scientific calculator with a built-in multimodal Gemini AI chat assistant.",
+  "requestFramePermissions": []
+}
